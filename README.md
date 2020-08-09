@@ -1,2 +1,2 @@
 # backup
-A simply python command line program that creates zip file backups and can optionally use regex. 
+A simple python command-line program that creates zip file backups and can optionally use regex. 
